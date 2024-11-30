@@ -1,0 +1,8 @@
+highest=max(45,98,46,96,41)
+print(highest)
+smallest=min(45,96,86,10,43)
+print(smallest)
+count=len([45,46])
+print(count)
+total=sum(20,30,40,50,60)
+print(total)
